@@ -1,0 +1,184 @@
+{ "height":20,
+ "layers":[
+        {
+         "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 603, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "height":20,
+         "name":"Capa de Patrones 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"left-down",
+ "tileheight":50,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"C:\/Users\/Victor\/Desktop\/THE LOST AGE\/Tree1.png",
+         "imageheight":85,
+         "imagewidth":64,
+         "margin":0,
+         "name":"Tree1",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":70,
+         "tilewidth":50
+        }, 
+        {
+         "firstgid":2,
+         "image":"C:\/Users\/Victor\/Desktop\/THE LOST AGE\/ZonaErikZone.png",
+         "imageheight":384,
+         "imagewidth":384,
+         "margin":0,
+         "name":"ZonaErikZone",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":100,
+         "tilewidth":100
+        }, 
+        {
+         "firstgid":11,
+         "image":"C:\/Users\/Victor\/Desktop\/THE LOST AGE\/ZonaErikZone.png",
+         "imageheight":384,
+         "imagewidth":384,
+         "margin":0,
+         "name":"ZonaErikZone",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":20,
+         "tilewidth":20
+        }, 
+        {
+         "firstgid":372,
+         "margin":0,
+         "name":"sdd",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":199,
+         "tiles":
+            {
+             "0":
+                {
+                 "image":"C:\/Program Files (x86)\/Tiled\/examples\/tmw_desert_spacing.png"
+                }
+            },
+         "tilewidth":265
+        }, 
+        {
+         "firstgid":373,
+         "image":"C:\/Program Files (x86)\/Tiled\/examples\/isometric_grass_and_water.png",
+         "imageheight":384,
+         "imagewidth":256,
+         "margin":0,
+         "name":"isometric_grass_and_water",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":50,
+         "tilewidth":50
+        }, 
+        {
+         "firstgid":408,
+         "image":"C:\/Program Files (x86)\/Tiled\/examples\/tmw_desert_spacing.png",
+         "imageheight":199,
+         "imagewidth":265,
+         "margin":0,
+         "name":"tmw_desert_spacing",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":50,
+         "tilewidth":50
+        }, 
+        {
+         "firstgid":423,
+         "image":"C:\/Program Files (x86)\/Tiled\/examples\/tmw_desert_spacing.png",
+         "imageheight":199,
+         "imagewidth":265,
+         "margin":0,
+         "name":"tmw_desert_spacing",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":20,
+         "tilewidth":20
+        }, 
+        {
+         "firstgid":540,
+         "image":"C:\/Program Files (x86)\/Tiled\/examples\/tmw_desert_spacing.png",
+         "imageheight":199,
+         "imagewidth":265,
+         "margin":0,
+         "name":"tmw_desert_spacing",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":30,
+         "tilewidth":30
+        }, 
+        {
+         "firstgid":588,
+         "image":"C:\/Program Files (x86)\/Tiled\/examples\/tmw_desert_spacing.png",
+         "imageheight":199,
+         "imagewidth":265,
+         "margin":0,
+         "name":"tmw_desert_spacing",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":50,
+         "tilewidth":50
+        }, 
+        {
+         "firstgid":603,
+         "margin":0,
+         "name":"rsdf",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":256,
+         "tiles":
+            {
+             "0":
+                {
+                 "image":"C:\/Users\/Victor\/Desktop\/THE LOST AGE\/casaErik.png"
+                }
+            },
+         "tilewidth":407
+        }],
+ "tilewidth":50,
+ "version":1,
+ "width":20
+}
